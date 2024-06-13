@@ -21,12 +21,12 @@ Hi, I'm Francisco Tudela Muñoz, and I studied administration and finance. Howev
   
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently looking for a job :wink:
+- 🔭 I’m currently looking for a job data analysis or data science :wink:
 - 📁 My main repositories • [EDEM_MDA23_24](https://github.com/Tumup/EDEM_MDA23_24) • [DATAPROJECT1](https://github.com/Tumup/DATAPROJECT1) • [DATAPROJECT2](https://github.com/Tumup/DATAPROJECT2)
 - 🌱 I’m currently mastering Python and learning PyTorch.
 - 🥅 2024 Goals: Contribute to Open Source projects 
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/franciscotudela/)
 - 🧗 I try to: Go beyond and push the bounds
 
 
