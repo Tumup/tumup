@@ -22,7 +22,7 @@ Hi, I'm Francisco Tudela Muñoz, and I studied administration and finance. Howev
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently looking for a job in data analysis or data science :wink:
-- 📁 My main repositories • [EDEM_MDA23_24](https://github.com/Tumup/EDEM_MDA23_24) • [DATAPROJECT1](https://github.com/Tumup/DATAPROJECT1) • [DATAPROJECT2](https://github.com/Tumup/DATAPROJECT2)
+- 📁 My main repositories • [EDEM_MDA23_24](https://github.com/Tumup/EDEM_MDA23_24) • [DATAPROJECT1](https://github.com/Tumup/DATAPROJECT1) • [DATAPROJECT2](https://github.com/Tumup/DATAPROJECT2) • [E2EAWS](https://github.com/Tumup/E2EAWS)
 - 🌱 I’m currently mastering Python and learning PyTorch.
 - 🥅 2024 Goals: Contribute to Open Source projects 
 - 💬 Ask me about anything, I am happy to help :smile:
