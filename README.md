@@ -71,3 +71,6 @@ Hi, I'm Francisco Tudela Muñoz, and I studied administration and finance. Howev
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Tumup&repo=DATAPROJECT2" />
 </a>
 
+<a href="https://github.com/Tumup/DATAPROJECT2">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Tumup&repo=E2EAWS" />
+</a>
